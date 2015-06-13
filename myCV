@@ -1,0 +1,171 @@
+{
+    "About Me": {
+        "name": "Prathima. D",
+        "label": "Backend Programmer | Gadget freak",
+        "picture": "awesomeness.jpeg",
+        "email": "hello@prathima.me",
+        "phone": "+91 7795318168",
+        "website": "http://prathima.me/",
+        “dob” : “October, 1989”, 
+        “marital_status” : “single”,
+        "summary": "Programmer, idealist and a Dancer",
+        "location": {
+            "address": "127.0.0.1",
+            "postalCode": "192.168.0.0",
+            "city": "Bengaluru",
+            "countryCode": "IN",
+            "state": "Karnataka"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Prathima. D",
+                "url": "https://in.linkedin.com/in/dprathima"
+            },
+            {
+                "network": "GitHub",
+                "username": "dprathima",
+                "url": "https://github.com/dprathima"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Tymtix Technologies Pvt Ltd.",
+            "position": "PHP Developer",
+            "website": "http://tymtix.com",
+            "summary": "coding Backend API’s in PHP and integrate with jQuery to prospective clients.",
+            "highlights": [
+                "Code optimisation and queries, secure coding practices, coding standards, bug fixes and git pushes to Production”,
+“Bootstrap designs compatible with all devices and in accordance with  w3c standards",
+“Worked on Security tools like - AlertLogic and Accunetix to monitor logs for suspicious activities”.
+“Atlassian GIT and Jira for Unit and Manual testing during deployments”, 
+“Video encoding Profiles using Pandastream”,
+“Repositories on Bitbucket and sourcetree”,
+“SDLC phases from User experience perspective, API specs wrt frontend and backend, Pseudo Codes with queries, optimised queries using Codeigniter - Profiler, deployment, Testing and bug fixing phases”,
+“Frameworks - MVC architectured Codeigniter”, 
+“Proficiency in tools like - Chrome plugin - Postman, json, jQuey, mySQL, phpmyadmin, xampp, Sublime Editor”
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Jyoti Nivas College - Autonomous",
+            "area": "Computer Science",
+            "studyType": "Regular",
+	“degree” : “Masters”,
+            "startYear": "2010",
+            "endYear": "2013",
+            "subjects": [
+                "Artificial Intelligence",
+                "Data sciences",
+                "Neural Networks",
+                "Programming",
+                "Databases"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML5",
+                "CSS",
+	    “Bootstrap”,
+                "JS",
+	    “jQuery”
+            ]
+        },
+        {
+            "name": "PHP",
+            "level": "Intermediate",
+            "keywords": [
+                "Core PHP and Object oriented PHP",
+                "Python",
+	     “Understanding of MVC architecture”,
+	     “Codeigniter Framework” 
+            ]
+        },
+        {
+            "name": "Others",
+            "level": "",
+            "keywords": [
+                "Linux",
+                "Bash",
+                "Apache",
+                "Git",
+                "mongodb",
+                “nosql”
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Power Searching with Google - Basic and Advanced",
+            "authority": "Google",
+            "licenceNumber": ""
+        },
+        {
+            "name": "Linux Essentials",
+            "authority": "Linux Professionals Institute",
+            "licenceNumber": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Full professional proficiency"
+        },
+        {
+            "language": "Kannada",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Amateur Radio",
+            "keywords": [
+                "DXing",
+                "CW",
+                "EchoLink"
+            ],
+	[
+        {
+            "name": "Gadgets",
+            "keywords": [
+                "Apple",
+                “OS X",
+                "Android"
+            ],
+        [
+        {
+            "name": "Networking, Events and Conferences",
+            "keywords": [
+                "Startups",
+                "Entrepreneurship",
+                "Innovation",
+	    “Hackathons”,
+	    “Blogging”
+          ],
+        [
+        {
+            "name": "Other interests",
+            "keywords": [
+                "Trekking",
+                “fitness”,
+                "dance",
+                "friends get-togethers",
+                "puzzles",
+                “quiz and debates”
+                
+            ]
+        
+        }
+    ]
+}
+
